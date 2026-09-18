@@ -1,1 +1,2 @@
 Learning github commands
+How to use commands
